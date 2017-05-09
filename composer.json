@@ -1,0 +1,25 @@
+{
+	"name": "liudel/db-view",
+    "description": "show db option",
+    "type": "library",
+    "license": "MPL-2.0",
+    "authors": [
+    	{
+    		"name": "liudel",
+    		"email": "18232450029@163.com"
+    	}
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"DbView\\": "src/"
+    	}
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
