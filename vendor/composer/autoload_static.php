@@ -16,7 +16,7 @@ class ComposerStaticInite6e9378dd0a359fb860d3ba2238c6f3f
     public static $prefixDirsPsr4 = array (
         'DbView\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/src/DbView',
         ),
     );
 

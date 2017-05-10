@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'DbView\\' => array($baseDir . '/src'),
+    'DbView\\' => array($baseDir . '/src/DbView'),
 );
